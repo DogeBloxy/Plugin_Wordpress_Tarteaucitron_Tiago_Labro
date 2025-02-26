@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://socialify.git.ci/DogeBloxy/Plugin_Wordpress_Tarteaucitron_Tiago_Labro/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Overlapping+Hexagons&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">Depuis la mise en place du RGPD, la gestion des cookies est devenue un élément important à mettre en place. Les sites internet se doivent d’être transparents et se doivent d’indiquer aux utilisateurs la présence et l’utilisation de « trackers » </p>
+<p id="description">Depuis la mise en place du RGPD, la gestion des cookies est devenue un élément important à mettre en place. Les sites internet se doivent d’être transparents et se doivent d’indiquer aux utilisateurs la présence et l’utilisation de « trackers ».</p>
+
+<p>Utilisation de la librairie Tarte Au Citron : Pour en savoir plus, <a href="https://tarteaucitron.io">cliquez ici.</a></p>
 
 <h2>🧐 Fonctionnalités :</h2>
 
